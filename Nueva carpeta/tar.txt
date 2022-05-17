@@ -1,0 +1,15 @@
+coamdnos basics
+crear directorio
+enlista elementeos deirectorio
+cambiar de directorio
+cls borrar
+dir VER ARCHIVOS
+type NUL > hola.txt	           CREAR UN ARCHIVO
+echo > nombre.png.mp3 CREAR UN ARCHIVO
+md 		           CREAR CARPETA
+del BORRAR del *	            BORRA TODO lo que esta dentro de la carpeta
+rmdir nombre de la carpeta Borrar una carpeta sin entrar
+copy (nombrearchivo) (direccion completa) COPIAR ARCHIVO
+move (nombreArchivo) (DireccionCompleta) CORTAR Y PEGAR
+rename (NombreArchivo) (nuevonombre)
+start (que abrir)	start http://facebook.com	start ms-settings:home

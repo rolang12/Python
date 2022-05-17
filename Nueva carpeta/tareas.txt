@@ -1,0 +1,7 @@
+cuales son los aatributos de un archivo y como lo muestra windows en su terminal como linux
+que tipos de permisos
+
+
+cuales son los niveles de permisos y como se llaman en windows y en linux
+
+Linux existen formas en texto y en numeros, averiguar que significa cada numero	

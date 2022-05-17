@@ -1,0 +1,20 @@
+O - orden de la funcion 
+N -  representa un numero o el tamañno de un conjunto
+
+O(1) Esta expresion indica el tiempo constante, lo que significa que el algoritmo
+se ejecutara con el mismo rendimieto tin importar el tamaño del input
+
+O(N) esta es la expresion de crecimiento lineal e ndica que el crecimiento
+en complejidad del algoritmo es proporcional al tamaño del input
+
+o(N") Esta expresion indica que el crecimiento en complejidad es proporcional
+al cuadrado del tamaño del input
+
+Bubble SORT           -         O(N^2)
+MERGE SORT            -        O(N LOG N)
+HEAPSORT               -         O(N LOG N)
+QUICK SORT            -          PEOR CASO O(N^2)
+INSERCION                -         O(N^2) EN EL PEOR
+O(N^2)              SELECCION
+
+entre mas crezca la entreada peor se va a comportar en el N a la 2

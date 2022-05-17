@@ -1,0 +1,5 @@
+git remote add origin URL para añadir el repo
+git remote PARA MIRAR QUE REPOS
+git log --oneline PARA MIRAR COMMITS
+git push -u origin main HACER PUSH
+git merge nombre de la rama que queremos traer
